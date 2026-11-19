@@ -1,0 +1,39 @@
+{
+  "url": "https://www.rinvoq.com/sign-up",
+  "firstName": "Testfirst",
+  "lastName": "Testlast",
+  "zip": "60064",
+  "nrAxSpA": {
+    "condition": "Active Non-radiographic Axial Spondyloarthritis",
+    "noEmail": "qa.rinvoq+nraxspa-no@example.com",
+    "yesEmail": "qa.rinvoq+nraxspa@example.com",
+    "dob": "05/22/1988",
+    "startDate": "02/01/2025",
+    "phone": "5555550101"
+  },
+  "jpsa": {
+    "condition": "Active Juvenile Psoriatic Arthritis",
+    "startDate": "02/01/2025",
+    "childDob": "08/05/2014",
+    "childFirstName": "Testchild",
+    "medication": "Oral Solution"
+  },
+  "pjia": {
+    "condition": "Active Polyarticular Juvenile Idiopathic Arthritis",
+    "email": "qa.rinvoq+pjia@example.com",
+    "phone": "5555550101",
+    "dob": "04/12/1980",
+    "startDate": "02/01/2025",
+    "childDob": "06/20/2015",
+    "childFirstName": "Testchild",
+    "childLastName": "Testkid"
+  },
+  "uc": {
+    "condition": "Moderate to Severe Ulcerative Colitis",
+    "email": "qa.rinvoq+ucyes@example.com",
+    "dob": "03/10/1985",
+    "startDate": "01/15/2025",
+    "phone": "5555550101",
+    "mobile": "5555550102"
+  }
+}
